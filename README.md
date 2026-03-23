@@ -3,7 +3,7 @@
 ![FSociety Banner](Screenshots/Banner.png)
 
 <p align="center">
-	Designed like signal leaking through concrete.
+	Designed like a signal leaking through concrete.
 </p>
 
 ## Overview
