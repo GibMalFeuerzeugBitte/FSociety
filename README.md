@@ -1,64 +1,51 @@
-## From Mr. Robot's FSociety to your terminal. Pure black. Red accents.
+<h1 align="center">FSociety</h1>
 
-Built for those who live in the dark. A pitch-black backdrop that disappears when you start typing, and strategic red accents that guide your focus to what truly matters. Like the group that changed the game, this theme strips away the noise.
+<p align="center">
+	Pure black base. Aura-inspired cyberpunk accents. Built to feel sharp, dark, and alive.
+</p>
 
-![Banner](Screenshots/Banner.png)
+![FSociety Banner](Screenshots/Banner.png)
 
-### What You Get:
+## Overview
 
-- **Pure Black** as the base – no gray, no distractions
-- **Red Accents** where they count: Find widget, focus states, active selections
-- **Clear Code Colors** in different red shades, with green as the only accent for maximum readability
-- **Full UI Coverage** – tabs, panels, status bar, suggest widget, everything considered
-- **Cascadia Code** as default – clean, thin, pleasant to write with
+FSociety is a dark VS Code theme with a pure black editor background and a high-contrast neon palette.
 
----
+The visual direction combines:
 
-## A Look Inside
+- deep black surfaces
+- Aura-inspired purple bars and active states
+- controlled cyan and mint highlights
+- pink and blue syntax accents with stronger token separation
 
-![Code Screenshot 1](Screenshots/Screenshot%202026-03-23%20122250.png)
-
-![Code Screenshot 2](Screenshots/Screenshot%202026-03-23%20122312.png)
-
----
 
 ## Installation
 
-Super simple:
-
 1. Open VS Code
-2. Go to Extensions (Ctrl+Shift+X / Cmd+Shift+X)
-3. Search for "FSociety"
-4. Click Install
-5. Open "Preferences: Color Theme" and select it
+2. Open Extensions
+3. Search for FSociety
+4. Install the extension
+5. Open Preferences: Color Theme
+6. Select FSociety
 
-Done.
+## Contributing
 
----
+It works on my machine and thats what matters.
 
-## Font & Defaults
+Want to suggest improvements?  
+Feel free to open an issue or submit a pull request on Github.
 
-The theme comes with solid defaults so everything looks right out of the box:
 
-- **Primary Font:** Cascadia Code (clean, legible, pleasant)
-- **Fallbacks:** JetBrains Mono, Fira Code, Consolas
-- **Font Weight:** 400 (not too heavy)
-- **Ligatures:** Enabled
-- **Font Size:** 14pt (standard, customizable)
+## Thanks
 
-If you have your own font settings saved in VS Code, those take priority. The defaults are just a recommendation.
+I especially recommend these Guides if you would like to design youre own VSCTheme:
 
----
+- [Theme Authoring Guide](https://code.visualstudio.com/api/extension-capabilities/theming)
+- [Theme Color Reference](https://code.visualstudio.com/api/references/theme-color)
+
+But there are also really good Tutorials if you dont like reading.
+
 
 ## License
 
-MIT. Do what you want with it.
-
----
-
-**FSociety** – For those who code in the shadows. We are FSociety.
-
-![Detail Shot](Screenshots/Detailbild.png)
-
----
+MIT
 
