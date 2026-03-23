@@ -1,18 +1,4 @@
-<div align="center">
-
-![FSociety Icon](Screenshots/Icon.png)
-
-# FSociety
-
-A VS Code theme built in the spirit of those who expose the truth.
-
-**From Mr. Robot's FSociety to your terminal. Pure black. Red accents. No distractions.**
-
-</div>
-
----
-
-## The Theme
+## From Mr. Robot's FSociety to your terminal. Pure black. Red accents.
 
 Built for those who live in the dark. A pitch-black backdrop that disappears when you start typing, and strategic red accents that guide your focus to what truly matters. Like the group that changed the game, this theme strips away the noise.
 
@@ -33,8 +19,6 @@ Built for those who live in the dark. A pitch-black backdrop that disappears whe
 ![Code Screenshot 1](Screenshots/Screenshot%202026-03-23%20122250.png)
 
 ![Code Screenshot 2](Screenshots/Screenshot%202026-03-23%20122312.png)
-
-![Detail Shot](Screenshots/Detailbild.png)
 
 ---
 
@@ -74,8 +58,7 @@ MIT. Do what you want with it.
 
 **FSociety** – For those who code in the shadows. We are FSociety.
 
+![Detail Shot](Screenshots/Detailbild.png)
+
 ---
 
-## Keywords for Discovery
-
-*dark theme, black background, red accents, hacker aesthetic, cyberpunk, minimalist, syntax highlighting, productivity, focus, clean code, coding theme, FSociety*
