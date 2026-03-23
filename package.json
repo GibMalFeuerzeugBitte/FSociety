@@ -4,6 +4,7 @@
   "description": "A pure black hacker-inspired VS Code theme with red accents. Built for those who question everything.",
   "version": "0.0.1",
   "publisher": "your-publisher-name",
+  "icon": "Screenshots/Icon.png",
   "license": "MIT",
   "engines": {
     "vscode": "^1.85.0"
