@@ -1,0 +1,58 @@
+{
+  "name": "fsociety-one-dark-theme",
+  "displayName": "FSociety",
+  "description": "A pure black hacker-inspired VS Code theme with red accents. Built for those who question everything.",
+  "version": "0.0.1",
+  "publisher": "your-publisher-name",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "black",
+    "fsociety",
+    "hacker",
+    "red",
+    "cyber",
+    "editor",
+    "programming"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "FSociety",
+        "uiTheme": "vs-dark",
+        "path": "./themes/fsociety-one-dark-color-theme.json"
+      }
+    ],
+    "configurationDefaults": {
+      "editor.fontFamily": "'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace",
+      "editor.fontLigatures": true,
+      "editor.fontWeight": "400",
+      "editor.fontSize": 14,
+      "editor.lineHeight": 1.5,
+      "terminal.integrated.fontFamily": "'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace",
+      "terminal.integrated.fontSize": 13
+    }
+  },
+  "scripts": {
+    "package": "npx @vscode/vsce package",
+    "publish": "npx @vscode/vsce publish"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/fsociety-one-dark-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/fsociety-one-dark-theme/issues"
+  },
+  "homepage": "https://github.com/your-username/fsociety-one-dark-theme#readme"
+}
