@@ -1,9 +1,9 @@
 {
-  "name": "fsociety-one-dark-theme",
+  "name": "fsociety",
   "displayName": "FSociety",
   "description": "A pure black hacker-inspired VS Code theme with red accents. Built for those who question everything.",
   "version": "0.0.1",
-  "publisher": "your-publisher-name",
+  "publisher": "GibMalFeuerzeugBitte",
   "icon": "Screenshots/Icon.png",
   "license": "MIT",
   "engines": {
@@ -56,10 +56,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/fsociety-one-dark-theme.git"
+    "url": "https://github.com/GibMalFeuerzeugBitte/FSociety.git"
   },
   "bugs": {
-    "url": "https://github.com/your-username/fsociety-one-dark-theme/issues"
+    "url": "https://github.com/GibMalFeuerzeugBitte/FSociety/issues"
   },
-  "homepage": "https://github.com/your-username/fsociety-one-dark-theme#readme"
+  "homepage": "https://github.com/GibMalFeuerzeugBitte/FSociety#readme"
 }
