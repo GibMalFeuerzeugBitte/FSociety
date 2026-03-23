@@ -2,7 +2,7 @@
   "name": "fsociety",
   "displayName": "FSociety",
   "description": "A pure black, Aura-inspired cyberpunk VS Code theme with neon purple, cyan, pink, and mint accents.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "GibMalFeuerzeugBitte",
   "icon": "Screenshots/Icon.png",
   "license": "MIT",
@@ -36,16 +36,7 @@
         "uiTheme": "vs-dark",
         "path": "./themes/fsociety-one-dark-color-theme.json"
       }
-    ],
-    "configurationDefaults": {
-      "editor.fontFamily": "'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace",
-      "editor.fontLigatures": true,
-      "editor.fontWeight": "400",
-      "editor.fontSize": 14,
-      "editor.lineHeight": 1.5,
-      "terminal.integrated.fontFamily": "'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace",
-      "terminal.integrated.fontSize": 13
-    }
+    ]
   },
   "scripts": {
     "package": "npx @vscode/vsce package",

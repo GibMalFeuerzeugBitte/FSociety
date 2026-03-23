@@ -1,10 +1,10 @@
 <h1 align="center">FSociety</h1>
 
-<p align="center">
-	Pure black base. Aura-inspired cyberpunk accents. Built to feel sharp, dark, and alive.
-</p>
-
 ![FSociety Banner](Screenshots/Banner.png)
+
+<p align="center">
+	Designed like signal leaking through concrete.
+</p>
 
 ## Overview
 
@@ -30,9 +30,9 @@ The visual direction combines:
 ## Contributing
 
 It works on my machine and thats what matters.
-
 Want to suggest improvements?  
 Feel free to open an issue or submit a pull request on Github.
+I probably wont answer.
 
 
 ## Thanks
